@@ -1,0 +1,17 @@
+# Hankun Li
+# 10/8/2020
+
+
+steps:
+
+[0] get the raw data ready, download from the MONITORING SYSTEM [check the signal monitoring system guide]
+
+[1] python 3.7 is required to be installed to using 'raw_data_dump' (format converter) 
+
+[2] open the raw_data_converter, change the work path [only change required!], should be where those data stored.
+
+[3] to using the figure generating script, install Anaconda, Laugch the Jupyter Notebook
+
+[4] requried package: matplotlib, pandas, numpy
+
+[5] run that auto_main() in the Jupyter, pay attention to what need to be change :[input path, time span (month/year)]
